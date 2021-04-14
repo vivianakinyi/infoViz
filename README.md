@@ -5,7 +5,9 @@ Technology has increased its reach to the average household in the U.S
 However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, tech is still not diverse enough Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
 
 
-### Let's llok at some data
+### Let's look at some data
+Embedded Observable
+
 <iframe width="100%" height="384" frameborder="0"
   src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/3?cells=animateArcsFromNodes"></iframe>
 
