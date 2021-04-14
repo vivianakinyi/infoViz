@@ -1,8 +1,8 @@
 ## Diversity in Tech
 
-You can use the [editor on GitHub](https://github.com/vivianakinyi/infoViz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Technology has increased its reach to the average household in the U.S 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, tech is still not diverse enough Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
 
 ### Markdown
 
