@@ -13,8 +13,8 @@ We are using this as inspiration to consolidate the data and make it exploratory
 
 ### Top 10 Tech Companies
 
-<iframe width="100%" height="723" frameborder="0"
-  src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=viewof+sunburst"></iframe>
+<iframe width="100%" height="796" frameborder="0"
+  src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
   
 
 ### Looking to the Future 
