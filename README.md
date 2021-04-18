@@ -12,7 +12,10 @@ We are using this as inspiration to consolidate the data and make it exploratory
 <iframe width="100%" height="100%" frameborder="0" src="https://public.tableau.com/views/GenderBalanceinTechnologyCompanies/GenderBalanceinTechCompanies?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
 
 ### Top 10 Tech Companies
-PRIYANKA SUNBURST AND SCATTERPLOT HERE!:) 
+
+<iframe width="100%" height="723" frameborder="0"
+  src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=viewof+sunburst"></iframe>
+  
 
 ### Looking to the Future 
 Embedded Tableau (Credit to Makeover Monday, creator Lucy Bailly)
