@@ -6,7 +6,7 @@ However, there is a stark contrast between the demographics of tech companies ma
 
 ### Current State Assessment of Tech Industry
 
-<iframe width="1000px" height="1000px" src="https://10ay.online.tableau.com/t/infoviz/views/EDA_Vivian_Omondi2/RaceandGenderComparisonDashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"></iframe> 
+<iframe width="100%" height="100%"  src="https://10ay.online.tableau.com/t/infoviz/views/EDA_Vivian_Omondi2/RaceandGenderComparisonDashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_  link"></iframe> 
 
 Merry is working on the text
 
