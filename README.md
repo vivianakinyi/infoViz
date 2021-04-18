@@ -7,6 +7,7 @@ However, there is a stark contrast between the demographics of tech companies ma
 ### Current State Assessment of Tech Industry
 
 Embedded Tableau (credit to Makeover Monday, creator Ryan Soares) 
+We are using this as inspiration to consolidate the data and make it exploratory for users. 
 
 <iframe width="100%" height="100%" frameborder="0" src="https://public.tableau.com/views/GenderBalanceinTechnologyCompanies/GenderBalanceinTechCompanies?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
 
@@ -14,11 +15,14 @@ Embedded Tableau (credit to Makeover Monday, creator Ryan Soares)
 PRIYANKA SUNBURST AND SCATTERPLOT HERE!:) 
 
 ### Looking to the Future 
-Merry is working on the text
+Embedded Tableau (Credit to Makeover Monday, creator Lucy Bailly)
+we are using this as inspiration. In our final project, we would like a projected timeline of when all of the top 10 tech companies are expected to reach gender parity so that the situation can be related to and grasped by our viewers. 
+
+<iframe width="100%" height="100%" frameborder="0" src="https://public.tableau.com/views/Gendergapinthetechindustry-MakeoverMonday-Week462018/GendergapinTechcompanies?:language=en&:display_count=y&:origin=viz_share_link"></iframe>
 
 
 ### Let's look at some data
-Embedded Observable
+Embedded D3
 
 <iframe width="100%" height="384" frameborder="0"
   src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/3?cells=animateArcsFromNodes"></iframe>
