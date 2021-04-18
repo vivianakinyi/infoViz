@@ -8,8 +8,7 @@ However, there is a stark contrast between the demographics of tech companies ma
 
 Embedded Tableau (credit to Makeover Monday, creator Ryan Soares) 
 
-<iframe width="100%" height="100%" frameborder="0" 
-  src="https://public.tableau.com/views/GenderBalanceinTechnologyCompanies/GenderBalanceinTechCompanies?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
+<iframe width="100%" height="100%" frameborder="0" src="https://public.tableau.com/views/GenderBalanceinTechnologyCompanies/GenderBalanceinTechCompanies?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
 
 Merry is working on the text
 
