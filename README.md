@@ -17,7 +17,7 @@ Merry is working on the text
 Merry will add Vivian's EDA to this section 
 
 ### Top 10 Tech Companies
-Merry is working on the text
+PRIYANKA sunburst and scatterplot here! :) 
 
 ### Looking to the Future 
 Merry is working on the text
