@@ -11,7 +11,6 @@ We are using this as inspiration to consolidate the data and make it exploratory
 
 <iframe width="100%" height="100%" frameborder="0" src="https://public.tableau.com/views/GenderBalanceinTechnologyCompanies/GenderBalanceinTechCompanies?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
 
-<iframe width="100%" height="100%" frameborder="0" src="https://public.tableau.com/profile/vivian.omondi#!/vizhome/SpeedvsIntensity/Sheet1?publish=yes"></iframe>
 
 ### Top 10 Tech Companies
 
