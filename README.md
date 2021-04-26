@@ -2,7 +2,7 @@
 
 Technology has increased its reach to the average household in the U.S 
 
-However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, tech is still not diverse enough Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
+However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, and tech is still not diverse enough. Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
 
 ### Current State Assessment of Tech Industry
 
@@ -82,9 +82,10 @@ Superficially and looking at percentage breakdown alone, Netflix is doing the be
   src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
   
 
-### Looking to the Future 
+### Looking to the Future
 The story is ongoing and tech companies are far from reaching parity. In showing the projections based on these companies’ progress from 2014 to 2018, we focused on the gender parity story only as gender proportions stay fairly stable around 50%. Meanwhile, with minority representation in the US projected to continue increasing, this percentage is an ever moving target and pose a more complicated dilemma for tech companies to address. 
-
+  
+#### Projected Timeline for Gender Parity at Top 10
 In creating the timeline of the top 10, Amazon and Tesla could not be reported as they do not release data publicly. Thus, they cannot be assessed fairly with the others who release standardized government reports of their demographics. 
 
 Microsoft and Paypal would never reach a year when they hit the 50/50 benchmark as their progress in adding females to their workforce has been negative in the 4 years. The irony here is that Paypal when viewed from Percentage POC to Percentage Female in the graph above is second best to Netflix. 
@@ -93,3 +94,10 @@ Microsoft and Paypal would never reach a year when they hit the 50/50 benchmark 
 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1619457159695');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+#### Recommendations
+As demonstrated in the timeline, progress is too slow if the tech industry were left to itself. In the 4 years surveyed, companies had at best a few percentage points of positive change in both race and gender. We think tech could improve in the below dimensions. 
+<br>
+<li> <b>Transparency: </b> Requiring companies to release their EEO-1 reports to the public will allow all to be judged on the same standardized scale. In this manner, companies cannot self-report their data which inflate diversity.
+<li> <b>Accountability: </b> Hiring is only one aspect of the problem. Issues arise in retention as well, especially as individuals progress in their careers from professionals to managers. As such, huge pay gaps occur as individuals of specific groups advance on the career ladder and others do not. Publically releasing race and gender breakdown of pay scale as Intel has done (the only tech company to do so) allows the public to hold them accountable for their DEI efforts to retain and support all of their employees. 
+<li> <b>ADD MORE</b>
