@@ -88,7 +88,7 @@ Instead of relying on self-reported data, all top 10 tech companies are assessed
 #### Netflix: A Case Study of the "Best Performing" Tech Company  
 Superficially and looking at percentage breakdown alone, Netflix is doing the best for race and gender in total. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of professional, manager, and executive roles. Thus, retention is just as important to consider as hiring. 
 
-<div<div data-aos="fade-up" data-aos-duration="3000">
+<div data-aos="fade-up" data-aos-duration="3000">
   <iframe width="100%" height="796" frameborder="0"
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
