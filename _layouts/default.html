@@ -20,6 +20,9 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!--Trying out the zooming      -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
   </head>
   <body>
 <!--     <a id="skip-to-content" href="#content">Skip to the content.</a> -->
@@ -27,7 +30,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">Diversity in Tech</h1>
       <h2 class="project-tagline">Using data visualization narrative to tell the story of race and gender diversity in tech </h2>
-      <img src="hero-img.png">
+      <img src="hero-img.png" data-aos="zoom-in">
 <!--       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %} -->
@@ -48,5 +51,14 @@
         <span class="site-footer-credits">Graphs created using tableau, D3 and Javascript</span>
       </footer>
     </main>
+    
+    <!--  Scripts    -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+   
+    <!--  Ininitialize AOS    -->
+    <script>
+      AOS.init();
+    </script>
+    
   </body>
 </html>
