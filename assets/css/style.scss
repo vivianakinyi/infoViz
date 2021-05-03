@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-@mixin large {
-  @media screen and (min-width: 100em) {
-    @content;
-  }
+.about {
+  background: #466393;
 }
