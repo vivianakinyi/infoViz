@@ -1,4 +1,5 @@
 ## Diversity in Tech
+<img src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in" >
 
 <div id="about" class="about" data-aos="fade-up" data-aos-duration="3000">
 Technology has increased its reach to the average household in the U.S. However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, and tech is still not diverse enough. Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
