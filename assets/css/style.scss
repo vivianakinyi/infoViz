@@ -4,8 +4,7 @@
 @import "{{ site.theme }}";
 
 .about {
-  background: #EBECEC;
-  background-size: 100em;
-  padding: 60px 0;
-  position: relative;
+  @include large {
+    padding: 5rem 6rem;
+  }
 }
