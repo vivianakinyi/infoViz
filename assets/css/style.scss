@@ -4,7 +4,9 @@
 @import "{{ site.theme }}";
 
 .about {
+  background-color: gray;
   @include large {
     padding: 5rem 6rem;
+   
   }
 }
