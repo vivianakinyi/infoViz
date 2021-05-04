@@ -2,11 +2,11 @@
  <img src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in-down" data-aos-duration="3000">
 </div>
 
-<div class="section" data-aos="fade-down">
+<div class="section1" data-aos="fade-down">
 Technology has increased its reach to the average household in the U.S. However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, and tech is still not diverse enough. Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
 </div>
 
-<div>
+<div class="section2">
   <h3> Current State Assessment of Tech Industry </h3>
   <p>An assessment of the tech industry today primarily relies upon self-reported data. From 2014 to 2018, representation of most minorities are below their percentages in the U.S. population.
   </p>
