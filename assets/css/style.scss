@@ -3,8 +3,16 @@
 
 @import "{{ site.theme }}";
 
-.section {
+.section1 {
   background-color:  #fafafa;
+  @include large {
+    padding: 2rem 3rem;
+   
+  }
+}
+
+.section2 {
+  background-color:  #ffffff;
   @include large {
     padding: 2rem 3rem;
    
