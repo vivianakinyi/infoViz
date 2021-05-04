@@ -1,14 +1,18 @@
-
-<img src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in" >
+<div>
+ <img src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in-down" >
+</div>
 
 <div id="about" class="about" data-aos="fade-up" data-aos-duration="3000">
 Technology has increased its reach to the average household in the U.S. However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, and tech is still not diverse enough. Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
 </div>
 
-### Current State Assessment of Tech Industry
-
-<p>An assessment of the tech industry today primarily relies upon self-reported data. From 2014 to 2018, representation of most minorities are below their percentages in the U.S. population.
-</p>
+<div>
+ ### Current State Assessment of Tech Industry
+ 
+ <h3> Current State Assessment of Tech Industry </h3>
+ <p>An assessment of the tech industry today primarily relies upon self-reported data. From 2014 to 2018, representation of most minorities are below their percentages in the U.S. population.
+ </p>
+<div>
 
 <div data-aos="zoom-in-down">
  <div class='tableauPlaceholder' id='viz1619545800247' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparisonofAllTechCompanies_16194980492360&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ComparisonofAllTechCompanies_16194980492360&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparisonofAllTechCompanies_16194980492360&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object>
