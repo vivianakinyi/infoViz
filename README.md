@@ -7,6 +7,7 @@ Technology has increased its reach to the average household in the U.S. However,
 </div>
 
 <div>
+ 
  ### Current State Assessment of Tech Industry
  
  <h3> Current State Assessment of Tech Industry </h3>
