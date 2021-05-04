@@ -7,14 +7,9 @@ Technology has increased its reach to the average household in the U.S. However,
 </div>
 
 <div>
- 
- ### Current State Assessment of Tech Industry
- 
- <h3> Current State Assessment of Tech Industry </h3>
- 
- <p>An assessment of the tech industry today primarily relies upon self-reported data. From 2014 to 2018, representation of most minorities are below their percentages in the U.S. population.
- </p>
- 
+  <h3> Current State Assessment of Tech Industry </h3>
+  <p>An assessment of the tech industry today primarily relies upon self-reported data. From 2014 to 2018, representation of most minorities are below their percentages in the U.S. population.
+  </p>
 </div>
 
 <div data-aos="zoom-in-down">
@@ -25,9 +20,14 @@ Technology has increased its reach to the average household in the U.S. However,
    </script>
 </div>
 
-### Gender Diversity Breakdown
-Over the 4 years, the gap between the genders does not significantly improve. Not many gains were made to include and retain women in the tech workforce. 
-<br> 
+
+<div class="section">
+
+ ### Gender Diversity Breakdown
+ <p> Over the 4 years, the gap between the genders does not significantly improve. Not many gains were made to include and retain women in the tech workforce. </p>
+
+</div>
+
 <div data-aos="zoom-in-down">
  <div class='tableauPlaceholder' id='viz1619917763772' style='position: relative'><noscript><a href='#'><img alt='Dashboard 4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderDiversityinTechCompanies_16198211195300&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GenderDiversityinTechCompanies_16198211195300&#47;Dashboard4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderDiversityinTechCompanies_16198211195300&#47;Dashboard4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
  </div>              
