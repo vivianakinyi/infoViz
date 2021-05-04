@@ -132,3 +132,145 @@ As demonstrated in the timeline, progress is too slow if the tech industry were 
 <li> <b>Transparency: </b> Requiring companies to release their EEO-1 reports to the public will allow all to be judged on the same standardized scale. In this manner, companies cannot self-report their data which inflate diversity.
 <li> <b>Accountability: </b> Hiring is only one aspect of the problem. Issues arise in retention as well, especially as individuals progress in their careers from professionals to managers. As such, huge pay gaps occur as individuals of specific groups advance on the career ladder and others do not. Publically releasing race and gender breakdown of pay scale as Intel has done (the only tech company to do so) allows the public to hold them accountable for their DEI efforts to retain and support all of their employees. 
 <li> <b>ADD MORE</b>
+ 
+### Flip Cards
+<!-- NO JS VERSION: https://codepen.io/nicolaskadis/full/brQEOd/ -->
+
+$(document).ready(function() {
+  var front = document.getElementsByClassName("front");
+  var back = document.getElementsByClassName("back");
+
+  var highest = 0;
+  var absoluteSide = "";
+
+  for (var i = 0; i < front.length; i++) {
+    if (front[i].offsetHeight > back[i].offsetHeight) {
+      if (front[i].offsetHeight > highest) {
+        highest = front[i].offsetHeight;
+        absoluteSide = ".front";
+      }
+    } else if (back[i].offsetHeight > highest) {
+      highest = back[i].offsetHeight;
+      absoluteSide = ".back";
+    }
+  }
+  $(".front").css("height", highest);
+  $(".back").css("height", highest);
+  $(absoluteSide).css("position", "absolute");
+});
+
+
+/* for demo purposes */
+
+
+.card-block .btn-outline-primary {
+  width: 100%;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+}
+
+.card {
+  margin: 20px 0;
+}
+
+/* Flip Cards CSS */
+.card-container {
+  perspective: 700px;
+}
+.card-flip {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  height: auto;
+  transition: all 0.5s ease-out;
+  background: #d3d3d3;
+  border: none;
+}
+
+.card-flip div {
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  height: 100%;
+  width: 100%;
+  border: none;
+}
+
+.card-flip .front {
+  position: relative;
+  z-index: 1;
+}
+
+.card-flip .back {
+  position: relative;
+  z-index: 0;
+  transform: rotateY(-180deg);
+}
+
+.card-container:hover .card-flip {
+  transform: rotateY(180deg);
+}
+
+
+<!-- Visit https://codepen.io/nicolaskadis/full/brQEOd/ for the latest, no js version! -->
+<div class="container">
+  <div class="row text-center">
+    <div class="col-md-4 card-container">
+      <div class="card card-flip">
+        <div class="front card-block">
+          <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
+          <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
+          <h4 class="card-title">Front Title</h4>
+          <h6 class="card-subtitle text-muted">Front Sub-title</h6>
+          <p class="card-text">Front Text</p>
+        </div>
+        <div class="back card-block">
+          <p>
+            Some example text<br> to
+            <br> increase
+            <br> card
+            <br> height
+            <br> to
+            <br> something
+            <br> long
+          </p>
+          <a href="#" class="btn btn-outline-primary">Read More</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 card-container">
+      <div class="card card-flip">
+        <div class="front card-block">
+          <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
+          <h4 class="card-title">Front Title</h4>
+          <h6 class="card-subtitle text-muted">Front Sub-title</h6>
+          <p class="card-text">Front Text</p>
+        </div>
+        <div class="back card-block">
+          <p>Some example short text</p>
+          <a href="#" class="btn btn-outline-primary">Read More</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 card-container">
+      <div class="card card-flip">
+        <div class="front card-block">
+          <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
+          <h4 class="card-title">Front Title</h4>
+          <h6 class="card-subtitle text-muted">Front Sub-title</h6>
+          <p class="card-text">Front Text</p>
+        </div>
+        <div class="back card-block">
+          <p>Some example text</p>
+          <a href="#" class="btn btn-outline-primary">Read More</a>
+        </div>
+      </div>
+    </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
