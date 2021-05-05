@@ -28,7 +28,6 @@
   position: absolute;
 }
 
-/* Flip card code apted from ..*/
 .card {
   margin: 20px 0;
 }
@@ -43,7 +42,7 @@
   transform-style: preserve-3d;
   height: auto;
   transition: all 0.5s ease-out;
-  background: #d3d3d3;
+  background: white;
   border: none;
 }
 
@@ -69,4 +68,5 @@
 .card-container:hover .card-flip {
   transform: rotateY(180deg);
 }
+
 
