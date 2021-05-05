@@ -67,7 +67,7 @@
 </div>
 
 
-<div>
+<div class="section2">
  <p> From the above visualization, Amazon appears to be doing  well in racial diversity compared to the other companies. However, this is because Amazon includes data about their warehouse workers. This paints an incomplete picture since Black and Latino employees are still heavily underrepresented in their corporate offices. </p>
 
  </div>
@@ -85,7 +85,7 @@
 </div>
 
 <div data-aos="zoom-in-down"> 
- <img> src="./assets/img/top_10_tech.png">
+ <img src="./assets/img/top_10_tech.png">
 </div>
 
 <div class="section2" data-aos="zoom-in-down">
