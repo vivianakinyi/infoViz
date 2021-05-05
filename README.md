@@ -86,7 +86,7 @@
   </div>
 
    <div class="col-md-6" data-aos="fade-left"> 
-    <img src="./assets/img/top_10_tech.png" height="500px" width="500px">
+    <img src="./assets/img/top_10_tech.png">
    </div>
 
 </div>
