@@ -48,29 +48,28 @@ Technology has increased its reach to the average household in the U.S. However,
 </div>
 
 
-<div class="section1" data-aos="zoom-in-up">
-<div class='tableauPlaceholder' id='viz1619918563973' style='position: relative'><noscript><a href='#'><img alt='Companies ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DiversityinTechCompanies_16188954613140&#47;Companies' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
-</div>  
+<div class="section2" data-aos="zoom-in-up">
+ <div class='tableauPlaceholder' id='viz1619918563973' style='position: relative'><noscript><a href='#'><img alt='Companies ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DiversityinTechCompanies_16188954613140&#47;Companies' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
+ </div>  
 
-<script type='text/javascript'>                    
- var divElement = document.getElementById('viz1619918563973');                    
- var vizElement = divElement.getElementsByTagName('object')[0];                    
- vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
- var scriptElement = document.createElement('script');                    
- scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
- vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+ <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1619918563973');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+ </script>
 </div>
 
 <div class="section1">
  <h3> Top 10 Tech Companies </h3>
 <p> While tech as a whole lags behind representation of the US population and labor workforce, accountability for diversity improvement should be focused on the top 10 tech companies by market cap. As they have the most resources and power and are highly sought after by jobseekers, they serve as role models in shaping the expectation for Diversity, Equity, and Inclusion (DEI) across the entire industry. </p>
-
 </div>
 
 <div class="section1">
  <h3> Market Landscape </h3>
-The top 10 tech companies take up 61% of the technology market, with the other 177 tech companies taking up 39% of market share. 
+<p> The top 10 tech companies take up 61% of the technology market, with the other 177 tech companies taking up 39% of market share. </p>
 </div>
 
 
@@ -118,19 +117,19 @@ The top 10 tech companies take up 61% of the technology market, with the other 1
 
 <div class="section1"> 
 
-### Looking to the Future
-The story is ongoing and tech companies are far from reaching parity. In showing the projections based on these companies’ progress from 2014 to 2018, we focused on the gender parity story only as gender proportions stay fairly stable around 50%. Meanwhile, with minority representation in the US projected to continue increasing, this percentage is an ever moving target and pose a more complicated dilemma for tech companies to address. 
-  
-### Projected Timeline for Gender Parity at Top 10
-In creating the timeline of the top 10, Amazon and Tesla could not be reported as they do not release data publicly. Thus, they cannot be assessed fairly with the others who release standardized government reports of their demographics. 
+ <h3> Looking to the Future </h3>
+ The story is ongoing and tech companies are far from reaching parity. In showing the projections based on these companies’ progress from 2014 to 2018, we focused on the gender parity story only as gender proportions stay fairly stable around 50%. Meanwhile, with minority representation in the US projected to continue increasing, this percentage is an ever moving target and pose a more complicated dilemma for tech companies to address. 
 
-Microsoft and Paypal would never reach a year when they hit the 50/50 benchmark as their progress in adding females to their workforce has been negative in the 4 years. The irony here is that Paypal when viewed from Percentage POC to Percentage Female in the graph above is second best to Netflix. 
+ <h3>  Projected Timeline for Gender Parity at Top 10 </h3>
+ In creating the timeline of the top 10, Amazon and Tesla could not be reported as they do not release data publicly. Thus, they cannot be assessed fairly with the others who release standardized government reports of their demographics. 
+
+ Microsoft and Paypal would never reach a year when they hit the 50/50 benchmark as their progress in adding females to their workforce has been negative in the 4 years. The irony here is that Paypal when viewed from Percentage POC to Percentage Female in the graph above is second best to Netflix. 
 
 </div>
 
 <div  class="section2" data-aos="zoom-in-up">
  <div class='tableauPlaceholder' id='viz1619457159695' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10_Timelines&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top10_Timelines&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10_Timelines&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object>
- </div>                
+</div>                
 
  <script type='text/javascript'>                    
    var divElement = document.getElementById('viz1619457159695');                    
