@@ -75,6 +75,8 @@
 <div class="section1">
  <h3> Top 10 Tech Companies </h3>
 <p> While tech as a whole lags behind representation of the US population and labor workforce, accountability for diversity improvement should be focused on the top 10 tech companies by market cap. As they have the most resources and power and are highly sought after by jobseekers, they serve as role models in shaping the expectation for Diversity, Equity, and Inclusion (DEI) across the entire industry. </p>
+ 
+ <p> Now, let's narrow our focus to the top 10 tech companies (by market cap) in the US. These companies are highly sought after by jobseekers and are often trendsetters within the tech industry, often shaping expectations for Diversity, Equity and Inclusion. </p>
 </div>
 
 <div class="section1">
@@ -82,6 +84,9 @@
 <p> The top 10 tech companies take up 61% of the technology market, with the other 177 tech companies taking up 39% of market share. </p>
 </div>
 
+<div data-aos="zoom-in-down"> 
+ <img> src="./assets/img/top_10_tech.png">
+</div>
 
 <div class="section2" data-aos="zoom-in-down">
 <div class='tableauPlaceholder' id='viz1619457019094' style='position: relative'><noscript><a href='#'><img alt='Top 10 Tech Companies Market Cap (by Trillions)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top_10_MarketCap&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object>
@@ -110,8 +115,6 @@
    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
  </script>
 </div>
-
-
 
 <div class="section1"> 
  <h3> Netflix: A Case Study of the "Best Performing" Tech Company  </h3>
