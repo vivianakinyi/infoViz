@@ -41,7 +41,7 @@ Technology has increased its reach to the average household in the U.S. However,
  </script>
 </div>
 
-<div class="section2">
+<div class="section1">
  <h3> Racial Diversity Breakdown </h3>
   <p> Of the few companies who appear to do well in racial diversity, more research is required to understand the truth behind their self-reported data. Amazon,      for instance, appears to be doing well in racial diversity for percentage of Black employees; however, This is because Amazon includes data about their       warehouse workers. This paints an incomplete picture since Black and Latino employees are still heavily underrepresented in their corporate offices.
   </p>
