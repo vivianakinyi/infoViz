@@ -201,8 +201,6 @@ Technology has increased its reach to the average household in the U.S. However,
         </div>
       </div>
     </div>
-      </div>
-    </div>
   </div>
 </div
 
