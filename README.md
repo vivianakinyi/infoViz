@@ -161,21 +161,15 @@ Technology has increased its reach to the average household in the U.S. However,
         <div class="front card-block">
           <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
-          <h4 class="card-title">Front Title</h4>
-          <h6 class="card-subtitle text-muted">Front Sub-title</h6>
+          <h4 class="card-title">Push for Corporate Transparency</h4>
+          <!-- <h6 class="card-subtitle text-muted">Push for Corporate Transparency</h6> -->
           <p class="card-text">Front Text</p>
         </div>
         <div class="back card-block">
           <p>
-            Some example text<br> to
-            <br> increase
-            <br> card
-            <br> height
-            <br> to
-            <br> something
-            <br> long
+           Encourage your employer and leadership to release the EEO-1 reports to the public. This is the first step in holding your employers accountable and creating transparency.
           </p>
-          <a href="#" class="btn btn-outline-primary">Read More</a>
+           <!-- <a href="#" class="btn btn-outline-primary">Read More</a> -->
         </div>
       </div>
     </div>
