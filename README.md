@@ -85,7 +85,7 @@
 </div>
 
 <div data-aos="zoom-in-down"> 
- <img src="./assets/img/top_10_tech.png">
+ <img src="./assets/img/top_10_tech.png" height="200px" width="300px">
 </div>
 
 <div class="section2" data-aos="zoom-in-down">
