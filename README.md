@@ -120,6 +120,23 @@
  <p>Superficially and looking at percentage breakdown alone, Netflix is doing the best for race and gender in total. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of professional, manager, and executive roles. Thus, retention is just as important to consider as hiring. </p>
 </div> 
 
+<div class="container">
+ <div class="row"></div>
+   <div class="col-md-3">
+    <img src="./assets/img/executive.png">
+    <p> Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</p>
+   </div>
+   <div class="col-md-3">
+    <img src="./assets/img/manger.png">
+    <p>Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</p>
+   </div>
+   <div class="col-md-3">
+    <img src="./assets/img/professional.png">
+    <p>Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist
+</p>
+   </div>
+ </div>
+
 
 <div data-aos="fade-up" data-aos-duration="3000">
   <iframe width="100%" height="796" frameborder="0"
