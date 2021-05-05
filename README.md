@@ -180,59 +180,6 @@ $(document).ready(function() {
 });
 </script>
 
-/* for demo purposes */
-
-
-.card-block .btn-outline-primary {
-  width: 100%;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  bottom: 0;
-  left: 0;
-  position: absolute;
-}
-
-.card {
-  margin: 20px 0;
-}
-
-/* Flip Cards CSS */
-.card-container {
-  perspective: 700px;
-}
-.card-flip {
-  position: relative;
-  width: 100%;
-  transform-style: preserve-3d;
-  height: auto;
-  transition: all 0.5s ease-out;
-  background: #d3d3d3;
-  border: none;
-}
-
-.card-flip div {
-  backface-visibility: hidden;
-  transform-style: preserve-3d;
-  height: 100%;
-  width: 100%;
-  border: none;
-}
-
-.card-flip .front {
-  position: relative;
-  z-index: 1;
-}
-
-.card-flip .back {
-  position: relative;
-  z-index: 0;
-  transform: rotateY(-180deg);
-}
-
-.card-container:hover .card-flip {
-  transform: rotateY(180deg);
-}
-
 
 <!-- Visit https://codepen.io/nicolaskadis/full/brQEOd/ for the latest, no js version! -->
 <div class="container">
