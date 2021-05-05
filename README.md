@@ -154,7 +154,7 @@ Technology has increased its reach to the average household in the U.S. However,
 
 
 <!-- Visit https://codepen.io/nicolaskadis/full/brQEOd/ for the latest, no js version! -->
-<div class="container">
+
   <div class="row text-center">
     <div class="col-md-4 card-container">
       <div class="card card-flip">
@@ -210,7 +210,7 @@ Technology has increased its reach to the average household in the U.S. However,
       </div>
     </div>
   </div>
-</div>
+
 
 <!-- NO JS VERSION: https://codepen.io/nicolaskadis/full/brQEOd/ -->
 <script>
