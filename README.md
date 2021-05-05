@@ -41,8 +41,12 @@ Technology has increased its reach to the average household in the U.S. However,
  </script>
 </div>
 
-### Racial Diversity Breakdown
-Of the few companies who appear to do well in racial diversity, more research is required to understand the truth behind their self-reported data. Amazon, for instance, appears to be doing well in racial diversity for percentage of Black employees; however, This is because Amazon includes data about their warehouse workers. This paints an incomplete picture since Black and Latino employees are still heavily underrepresented in their corporate offices.
+<div>
+ <h3> Racial Diversity Breakdown </h3>
+  <p> Of the few companies who appear to do well in racial diversity, more research is required to understand the truth behind their self-reported data. Amazon,      for instance, appears to be doing well in racial diversity for percentage of Black employees; however, This is because Amazon includes data about their       warehouse workers. This paints an incomplete picture since Black and Latino employees are still heavily underrepresented in their corporate offices.
+  </p>
+</div>
+
 
 <div data-aos="zoom-in-up">
 <div class='tableauPlaceholder' id='viz1619918563973' style='position: relative'><noscript><a href='#'><img alt='Companies ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DiversityinTechCompanies_16188954613140&#47;Companies' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
@@ -58,13 +62,17 @@ Of the few companies who appear to do well in racial diversity, more research is
 </script>
 </div>
 
-### Top 10 Tech Companies
-While tech as a whole lags behind representation of the US population and labor workforce, accountability for diversity improvement should be focused on the top 10 tech companies by market cap. As they have the most resources and power and are highly sought after by jobseekers, they serve as role models in shaping the expectation for Diversity, Equity, and Inclusion (DEI) across the entire industry. 
+<div>
+ <h3> Top 10 Tech Companies </h3>
+<p> While tech as a whole lags behind representation of the US population and labor workforce, accountability for diversity improvement should be focused on the top 10 tech companies by market cap. As they have the most resources and power and are highly sought after by jobseekers, they serve as role models in shaping the expectation for Diversity, Equity, and Inclusion (DEI) across the entire industry. </p>
 
+</div>
 
-
-### Market Landscape
+<div>
+ <h3> Market Landscape </h3>
 The top 10 tech companies take up 61% of the technology market, with the other 177 tech companies taking up 39% of market share. 
+</div>
+
 
 <div data-aos="zoom-in-down">
 <div class='tableauPlaceholder' id='viz1619457019094' style='position: relative'><noscript><a href='#'><img alt='Top 10 Tech Companies Market Cap (by Trillions)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top_10_MarketCap&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object>
