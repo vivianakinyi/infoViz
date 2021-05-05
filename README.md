@@ -1,5 +1,5 @@
-<div>
- <img src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in-down" data-aos-duration="3000">
+<div class="conainer">
+ <img class= "img-fluid" src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in-down" data-aos-duration="3000">
 </div>
 
 <div class="section1" data-aos="fade-down">
@@ -90,14 +90,6 @@
     <img src="./assets/img/top_10_tech.png">
    </div>
  </div>
-</div>
-
-<div class="section2" data-aos="zoom-in-down">
-<div class='tableauPlaceholder' id='viz1619457019094' style='position: relative'><noscript><a href='#'><img alt='Top 10 Tech Companies Market Cap (by Trillions)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top_10_MarketCap&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object>
-</div>                
-
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1619457019094');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
 </div>
 
 
