@@ -34,7 +34,7 @@
 
 /* Flip Cards CSS */
 .card-container {
-  perspective: 700px;
+  perspective: 400px;
 }
 .card-flip {
   position: relative;
@@ -42,7 +42,7 @@
   transform-style: preserve-3d;
   height: auto;
   transition: all 0.5s ease-out;
-  background: #fafafa;
+  background: #e6e6e6;
   border: none;
 }
 
