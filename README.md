@@ -142,13 +142,13 @@ Technology has increased its reach to the average household in the U.S. However,
 </div>
 
 
-<div class="section1" data-aos="fade-right">> 
+<div class="section1" data-aos="fade-right"> 
  <h3> Recommendations </h3>
  As demonstrated in the timeline, progress is too slow if the tech industry were left to itself. In the 4 years surveyed, companies had at best a few percentage points of positive change in both race and gender. We think tech could improve in the below dimensions. 
  <br>
  </div>
  
- <div class="section1" data-aos="fade-left">>
+ <div class="section1" data-aos="fade-left">
  <h4> Transparency </h4> 
   <p> Requiring companies to release their EEO-1 reports to the public will allow all to be judged on the same standardized scale. In this manner, companies cannot self-report their data which inflate diversity. </p>
  </div>
