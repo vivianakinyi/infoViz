@@ -3,7 +3,10 @@
 </div>
 
 <div class="section1" data-aos="fade-down">
-Technology has increased its reach to the average household in the U.S. However, there is a stark contrast between the demographics of tech companies making key decisions that shape the path for the future and the demographics of its user base. So much has been said about the importance of diversity in tech companies. Yet progress is too slow, and tech is still not diverse enough. Our motivation is to uncover the extent to which these high tech companies have not addressed these DE&I issues, specifically focusing on race and gender.
+<p> Technology has a very wide reach and has become integrated  into everyday  life for the average American. But who are the people making key decisions that impact millions of people in the country? And do they represent the U.S. population that they serve? </p>
+
+<p> Let’s explore how the tech industry has handled Diversity, Equity, and Inclusion, especially around gender and race. </p> 
+
 </div>
 
 <div class="section2">
