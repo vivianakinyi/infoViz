@@ -23,7 +23,7 @@ Technology has increased its reach to the average household in the U.S. However,
 
 <div class="section1">
 
- <h3> Gender Diversity Breakdown <h3>
+ <h3> Gender Diversity Breakdown </h3>
  <p> Over the 4 years, the gap between the genders does not significantly improve. Not many gains were made to include and retain women in the tech workforce. </p>
 
 </div>
