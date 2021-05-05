@@ -121,7 +121,7 @@
 </div> 
 
 <div class="container">
- <div class="row"></div>
+ <div class="row">
    <div class="col-md-3">
     <img src="./assets/img/executive.png">
     <p> Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</p>
@@ -135,6 +135,7 @@
     <p>Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist
 </p>
    </div>
+  </div>
  </div>
 
 
