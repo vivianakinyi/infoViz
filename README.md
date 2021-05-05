@@ -146,37 +146,11 @@ Technology has increased its reach to the average household in the U.S. However,
  <h3> Recommendations </h3>
  As demonstrated in the timeline, progress is too slow if the tech industry were left to itself. In the 4 years surveyed, companies had at best a few percentage points of positive change in both race and gender. We think tech could improve in the below dimensions. 
  <br>
- <li> <b>Transparency: </b> Requiring companies to release their EEO-1 reports to the public will allow all to be judged on the same standardized scale. In this manner, companies cannot self-report their data which inflate diversity.
- <li> <b>Accountability: </b> Hiring is only one aspect of the problem. Issues arise in retention as well, especially as individuals progress in their careers from professionals to managers. As such, huge pay gaps occur as individuals of specific groups advance on the career ladder and others do not. Publically releasing race and gender breakdown of pay scale as Intel has done (the only tech company to do so) allows the public to hold them accountable for their DEI efforts to retain and support all of their employees. 
- <li> <b>ADD MORE</b>
+ <li> <b>Transparency: </b> Requiring companies to release their EEO-1 reports to the public will allow all to be judged on the same standardized scale. In this manner, companies cannot self-report their data which inflate diversity. </li>
+ <li> <b>Accountability: </b> Hiring is only one aspect of the problem. Issues arise in retention as well, especially as individuals progress in their careers from professionals to managers. As such, huge pay gaps occur as individuals of specific groups advance on the career ladder and others do not. Publically releasing race and gender breakdown of pay scale as Intel has done (the only tech company to do so) allows the public to hold them accountable for their DEI efforts to retain and support all of their employees. </li>
+ <li> <b>ADD MORE</b></li>
 </div> 
 
-
-<!-- NO JS VERSION: https://codepen.io/nicolaskadis/full/brQEOd/ -->
-<script>
-$(document).ready(function() {
-  var front = document.getElementsByClassName("front");
-  var back = document.getElementsByClassName("back");
-
-  var highest = 0;
-  var absoluteSide = "";
-
-  for (var i = 0; i < front.length; i++) {
-    if (front[i].offsetHeight > back[i].offsetHeight) {
-      if (front[i].offsetHeight > highest) {
-        highest = front[i].offsetHeight;
-        absoluteSide = ".front";
-      }
-    } else if (back[i].offsetHeight > highest) {
-      highest = back[i].offsetHeight;
-      absoluteSide = ".back";
-    }
-  }
-  $(".front").css("height", highest);
-  $(".back").css("height", highest);
-  $(absoluteSide).css("position", "absolute");
-});
-</script>
 
 
 <!-- Visit https://codepen.io/nicolaskadis/full/brQEOd/ for the latest, no js version! -->
@@ -237,5 +211,32 @@ $(document).ready(function() {
     </div>
   </div>
 </div>
+
+<!-- NO JS VERSION: https://codepen.io/nicolaskadis/full/brQEOd/ -->
+<script>
+$(document).ready(function() {
+  var front = document.getElementsByClassName("front");
+  var back = document.getElementsByClassName("back");
+
+  var highest = 0;
+  var absoluteSide = "";
+
+  for (var i = 0; i < front.length; i++) {
+    if (front[i].offsetHeight > back[i].offsetHeight) {
+      if (front[i].offsetHeight > highest) {
+        highest = front[i].offsetHeight;
+        absoluteSide = ".front";
+      }
+    } else if (back[i].offsetHeight > highest) {
+      highest = back[i].offsetHeight;
+      absoluteSide = ".back";
+    }
+  }
+  $(".front").css("height", highest);
+  $(".back").css("height", highest);
+  $(absoluteSide).css("position", "absolute");
+});
+</script>
+
 
 
