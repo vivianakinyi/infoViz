@@ -68,7 +68,7 @@
 
 
 <div class="section1">
- <p>Moving on to racial diversity. This is self-reported data, the only data available to the public for most tech companies. Do any of them seem to be doing fairly well in terms of racial diversity? </p>
+ <p> From the above visualization, Amazon appears to be doing  well in racial diversity compared to the other companies. However, this is because Amazon includes data about their warehouse workers. This paints an incomplete picture since Black and Latino employees are still heavily underrepresented in their corporate offices. </p>
 
  </div>
 
