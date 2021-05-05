@@ -49,11 +49,10 @@ Technology has increased its reach to the average household in the U.S. However,
 
 
 <div data-aos="zoom-in-up">
- <div class='tableauPlaceholder' id='viz1620177624634' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DiversityinTechCompanies_16188954613140&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
- </div>                
- 
+ <div class='tableauPlaceholder' id='viz1620248306504' style='position: relative'><noscript><a href='#'><img alt='Racial Diversity in Tech Companies ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DiversityinTechCompanies_16188954613140&#47;Companies' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Companies&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                
+
  <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1620177624634');                    
+  var divElement = document.getElementById('viz1620248306504');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   if ( divElement.offsetWidth > 800 ) { 
  vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    
@@ -154,7 +153,7 @@ Technology has increased its reach to the average household in the U.S. However,
  </div>
  
  <div class="section1" data-aos="fade-right">
- <h4>Accountability <h4> 
+ <h4>Accountability </h4> 
  <p>Hiring is only one aspect of the problem. Issues arise in retention as well, especially as individuals progress in their careers from professionals to managers. As such, huge pay gaps occur as individuals of specific groups advance on the career ladder and others do not. Publically releasing race and gender breakdown of pay scale as Intel has done (the only tech company to do so) allows the public to hold them accountable for their DEI efforts to retain and support all of their employees. </p>
  </div>
  
