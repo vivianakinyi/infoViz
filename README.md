@@ -96,6 +96,10 @@
 <div class="section1">
  <h3> Gender vs Race Representation at Top 10 </h3>
 <p>Instead of relying on self-reported data, all top 10 tech companies are assessed via the demographic data they are required by law to disclose to the U.S. federal government. These are EEO-1 reports, which include the breakdown of employee count by race and gender in the company. This allows us to compare all companies with the same standard and uncover how they rank against each other in addressing both race and gender representation. </p>
+
+<p> Let’s look at these top 10 companies’ performance balancing racial and gender diversity. Because companies can pad their self-reported data, we used the most recent EEO-1 reports, a standardized form that all companies submit to the federal government, to extract corporate roles only. Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.
+
+ </p>
 </div>
 
 <div data-aos="zoom-in-down">
