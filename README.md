@@ -127,7 +127,7 @@
     <p> Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</p>
    </div>
    <div class="col-md-3">
-    <img src="./assets/img/manger.png">
+    <img src="./assets/img/manager.png">
     <p>Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</p>
    </div>
    <div class="col-md-3">
