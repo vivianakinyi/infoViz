@@ -80,13 +80,13 @@
 </div>
 
 <div class="container">
-  <div class= col-md-6 data-aos="fade-right">
+  <div class="col-md-6" data-aos="fade-right">
     <h3> Market Landscape </h3>
    <p> The top 10 tech companies take up 61% of the technology market, with the other 177 tech companies taking up 39% of market share. </p>
   </div>
 
-   <div class= .col-md-6 data-aos="fade-left"> 
-    <img src="./assets/img/top_10_tech.png" height="200px" width="300px">
+   <div class="col-md-6" data-aos="fade-left"> 
+    <img src="./assets/img/top_10_tech.png" height="500px" width="500px">
    </div>
 
 </div>
