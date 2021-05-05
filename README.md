@@ -202,7 +202,7 @@ Technology has increased its reach to the average household in the U.S. However,
       </div>
     </div>
   </div>
-</div
+</div>
 
 <!-- NO JS VERSION: https://codepen.io/nicolaskadis/full/brQEOd/ -->
 <script>
