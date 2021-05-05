@@ -152,7 +152,6 @@ Technology has increased its reach to the average household in the U.S. However,
 </div> 
 
 
-### Flip Cards
 <!-- NO JS VERSION: https://codepen.io/nicolaskadis/full/brQEOd/ -->
 <script>
 $(document).ready(function() {
