@@ -28,7 +28,7 @@ Technology has increased its reach to the average household in the U.S. However,
 
 </div>
 
-<div data-aos="zoom-in-down">
+<div class="section2" data-aos="zoom-in-down">
  <div class='tableauPlaceholder' id='viz1619917763772' style='position: relative'><noscript><a href='#'><img alt='Dashboard 4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderDiversityinTechCompanies_16198211195300&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GenderDiversityinTechCompanies_16198211195300&#47;Dashboard4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderDiversityinTechCompanies_16198211195300&#47;Dashboard4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
  </div>              
 
@@ -74,7 +74,7 @@ The top 10 tech companies take up 61% of the technology market, with the other 1
 </div>
 
 
-<div class="section1" data-aos="zoom-in-down">
+<div class="section2" data-aos="zoom-in-down">
 <div class='tableauPlaceholder' id='viz1619457019094' style='position: relative'><noscript><a href='#'><img alt='Top 10 Tech Companies Market Cap (by Trillions)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top_10_MarketCap&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top_10_MarketCap&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object>
 </div>                
 
@@ -104,7 +104,7 @@ The top 10 tech companies take up 61% of the technology market, with the other 1
 
 
 
-<div class="section2"> 
+<div class="section1"> 
  <h3> Netflix: A Case Study of the "Best Performing" Tech Company  </h3>
  <p>Superficially and looking at percentage breakdown alone, Netflix is doing the best for race and gender in total. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of professional, manager, and executive roles. Thus, retention is just as important to consider as hiring. </p>
 </div> 
@@ -143,7 +143,7 @@ Microsoft and Paypal would never reach a year when they hit the 50/50 benchmark 
 </div>
 
 
-<div> 
+<div class="section1"> 
  <h3> Recommendations </h3>
  As demonstrated in the timeline, progress is too slow if the tech industry were left to itself. In the 4 years surveyed, companies had at best a few percentage points of positive change in both race and gender. We think tech could improve in the below dimensions. 
  <br>
