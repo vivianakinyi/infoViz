@@ -48,7 +48,7 @@ Technology has increased its reach to the average household in the U.S. However,
 </div>
 
 
-<div class="section2" data-aos="zoom-in-up">
+<div data-aos="zoom-in-up">
  <div class='tableauPlaceholder' id='viz1620177624634' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DiversityinTechCompanies_16188954613140&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DiversityinTechCompanies_16188954613140&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
  </div>                
  
@@ -87,7 +87,7 @@ Technology has increased its reach to the average household in the U.S. However,
 <p>Instead of relying on self-reported data, all top 10 tech companies are assessed via the demographic data they are required by law to disclose to the U.S. federal government. These are EEO-1 reports, which include the breakdown of employee count by race and gender in the company. This allows us to compare all companies with the same standard and uncover how they rank against each other in addressing both race and gender representation. </p>
 </div>
 
-<div class="section2"  data-aos="zoom-in-down">
+<div data-aos="zoom-in-down">
  <div class='tableauPlaceholder' id='viz1619473019655' style='position: relative'><noscript><a href='#'><img alt='Analysis of 2018 EEO-1 Data Amongst the Top 10 Tech Companies ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;to&#47;top10techcompanies_final&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='top10techcompanies_final&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;to&#47;top10techcompanies_final&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>              
 
 
@@ -109,7 +109,7 @@ Technology has increased its reach to the average household in the U.S. However,
 </div> 
 
 
-<div class="section2" data-aos="fade-up" data-aos-duration="3000">
+<div data-aos="fade-up" data-aos-duration="3000">
   <iframe width="100%" height="796" frameborder="0"
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
