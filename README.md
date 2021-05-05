@@ -95,14 +95,13 @@
 
 <div class="section1">
  <h3> Gender vs Race Representation at Top 10 </h3>
-<p>Instead of relying on self-reported data, all top 10 tech companies are assessed via the demographic data they are required by law to disclose to the U.S. federal government. These are EEO-1 reports, which include the breakdown of employee count by race and gender in the company. This allows us to compare all companies with the same standard and uncover how they rank against each other in addressing both race and gender representation. </p>
 
 <p> Let’s look at these top 10 companies’ performance balancing racial and gender diversity. Because companies can pad their self-reported data, we used the most recent EEO-1 reports, a standardized form that all companies submit to the federal government, to extract corporate roles only. Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.
 
  </p>
 </div>
 
-<div data-aos="zoom-in-down">
+<div class="container" data-aos="zoom-in-down">
  <div class='tableauPlaceholder' id='viz1619473019655' style='position: relative'><noscript><a href='#'><img alt='Analysis of 2018 EEO-1 Data Amongst the Top 10 Tech Companies ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;to&#47;top10techcompanies_final&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='top10techcompanies_final&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;to&#47;top10techcompanies_final&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>              
 
 
