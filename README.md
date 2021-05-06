@@ -123,22 +123,22 @@
 <div class="container">
  <div class="row">
    <div class="col-md-4">
-    <img src="./assets/img/executive.png">
+    <img src="./assets/img/executive.png" width="200" height="200">
     <p> Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</p>
    </div>
    <div class="col-md-4">
-    <img src="./assets/img/manager.png">
+    <img src="./assets/img/manager.png" width="200" height="200">
     <p>Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</p>
    </div>
    <div class="col-md-4">
-    <img src="./assets/img/professional.png">
+    <img src="./assets/img/professional.png" width="200" height="200">
     <p>Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist
 </p>
    </div>
   </div>
  </div>
 
-<div class="alert alert-secondary" role="alert">
+<div class="alert alert-primary" role="alert">
  Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? 
 </div>
 
