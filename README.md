@@ -201,13 +201,12 @@
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
           <h4 class="card-title">Push for Corporate Transparency</h4>
           <!-- <h6 class="card-subtitle text-muted">Push for Corporate Transparency</h6> -->
-          <p class="card-text">Front Text</p>
+<!--           <p class="card-text">Front Text</p> -->
         </div>
         <div class="back card-block">
           <p>
            Encourage your employer and leadership to release the EEO-1 reports to the public. This is the first step in holding your employers accountable and creating transparency.
           </p>
-           <!-- <a href="#" class="btn btn-outline-primary">Read More</a> -->
         </div>
       </div>
     </div>
@@ -215,13 +214,12 @@
       <div class="card card-flip">
         <div class="front card-block">
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
-          <h4 class="card-title">Front Title</h4>
-          <h6 class="card-subtitle text-muted">Front Sub-title</h6>
-          <p class="card-text">Front Text</p>
+          <h4 class="card-title">Be a Diversity Advocate </h4>
+<!--           <h6 class="card-subtitle text-muted">Front Sub-title</h6>
+          <p class="card-text">Front Text</p> -->
         </div>
         <div class="back card-block">
-          <p>Some example short text</p>
-          <a href="#" class="btn btn-outline-primary">Read More</a>
+          <p> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. t</p>
         </div>
       </div>
     </div>
@@ -229,13 +227,12 @@
       <div class="card card-flip">
         <div class="front card-block">
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
-          <h4 class="card-title">Front Title</h4>
-          <h6 class="card-subtitle text-muted">Front Sub-title</h6>
-          <p class="card-text">Front Text</p>
+          <h4 class="card-title">Donate</h4>
+<!--           <h6 class="card-subtitle text-muted">Front Sub-title</h6>
+          <p class="card-text">Front Text</p> -->
         </div>
         <div class="back card-block">
-          <p>Some example text</p>
-          <a href="#" class="btn btn-outline-primary">Read More</a>
+          <p> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
         </div>
       </div>
     </div>
