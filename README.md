@@ -213,7 +213,7 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
+          <span class="card-img-top fa fa-camera" style="font-size: 4em">&#xf118;</span>
           <h4 class="card-title">Be a Diversity Advocate </h4>
         </div>
         <div class="back card-body">
@@ -224,7 +224,7 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
+          <span class="card-img-top fa fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span>
           <h4 class="card-title">Donate</h4>
         </div>
         <div class="back card-block">
