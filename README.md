@@ -122,15 +122,15 @@
 
 <div class="container">
  <div class="row">
-   <div class="col-md-3">
+   <div class="col-md-4">
     <img src="./assets/img/executive.png">
     <p> Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</p>
    </div>
-   <div class="col-md-3">
+   <div class="col-md-4">
     <img src="./assets/img/manager.png">
     <p>Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</p>
    </div>
-   <div class="col-md-3">
+   <div class="col-md-4">
     <img src="./assets/img/professional.png">
     <p>Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist
 </p>
