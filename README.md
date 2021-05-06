@@ -123,7 +123,7 @@
 <div class="container">
  <div class="row">
     <figure class="figure col-md-4">
-    <img src="..." class="figure-img img-fluid rounded" alt="...">
+    <img src="./assets/img/executive.png" width="200" height="200" class="figure-img img-fluid rounded" alt="executive">
     <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</figcaption>
   </figure>
 <!--    <div class="col-md-4">
