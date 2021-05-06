@@ -141,7 +141,7 @@
  Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? 
 </div>
 
-<div data-aos="fade-up" data-aos-duration="3000">
+<div data-aos="zoom-in-down" data-aos-duration="3000">
   <iframe width="100%" height="796" frameborder="0"
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
