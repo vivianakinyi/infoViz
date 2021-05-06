@@ -122,10 +122,14 @@
 
 <div class="container">
  <div class="row">
-   <div class="col-md-4">
+    <figure class="figure col-md-4">
+    <img src="..." class="figure-img img-fluid rounded" alt="...">
+    <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</figcaption>
+  </figure>
+<!--    <div class="col-md-4">
     <img src="./assets/img/executive.png" width="200" height="200">
     <p> Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</p>
-   </div>
+   </div> -->
    <div class="col-md-4">
     <img src="./assets/img/manager.png" width="200" height="200">
     <p>Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</p>
