@@ -214,7 +214,7 @@
           <h6 class="card-title"> Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
-          <p class="card-text> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. </p>
+          <p class="card-text"> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. </p>
         </div>
       </div>
     </div>
@@ -223,7 +223,7 @@
         <div class="front card-block">
 <!--           <img src="./assets/img/executive.png" width="50" height="50" class="card-img-top" alt="..."> -->
 <!--           <span class="card-img-top fas fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span> -->
-          <h6 class="card-title">Donate</h6>
+          <h6 class="card-text">Donate</h6>
         </div>
         <div class="back card-block">
           <p class="card-text"> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
