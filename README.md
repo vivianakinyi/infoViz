@@ -215,10 +215,8 @@
         <div class="front card-block">
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
           <h4 class="card-title">Be a Diversity Advocate </h4>
-<!--           <h6 class="card-subtitle text-muted">Front Sub-title</h6>
-          <p class="card-text">Front Text</p> -->
         </div>
-        <div class="back card-block">
+        <div class="back card-body">
           <p> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. t</p>
         </div>
       </div>
@@ -228,8 +226,6 @@
         <div class="front card-block">
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
           <h4 class="card-title">Donate</h4>
-<!--           <h6 class="card-subtitle text-muted">Front Sub-title</h6>
-          <p class="card-text">Front Text</p> -->
         </div>
         <div class="back card-block">
           <p> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
