@@ -131,13 +131,13 @@
       <figcaption class="figure-caption">Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</figcaption>
    </figure>
   <figure class="figure col-md-4">
-      <img src="./assets/img/proffesional.png" width="100" height="100" class="figure-img img-fluid rounded" alt="executive">
+      <img src="./assets/img/professional.png" width="100" height="100" class="figure-img img-fluid rounded" alt="executive">
       <figcaption class="figure-caption">Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist</figcaption>
    </figure>
   </div>
  </div>
 
-<div class="alert alert-primary" role="alert">
+<div class="alert alert-light" role="alert">
  Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? 
 </div>
 
