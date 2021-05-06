@@ -199,9 +199,7 @@
         <div class="front card-block">
           <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
-          <h4 class="card-title">Push for Corporate Transparency</h4>
-          <!-- <h6 class="card-subtitle text-muted">Push for Corporate Transparency</h6> -->
-<!--           <p class="card-text">Front Text</p> -->
+          <h6 class="card-title">Push for Corporate Transparency</h6>
         </div>
         <div class="back card-block">
           <p>
@@ -213,8 +211,8 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <span class="card-img-top fa fa-camera" style="font-size: 4em">&#xf118;</span>
-          <h4 class="card-title">Be a Diversity Advocate </h4>
+          <span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span>
+          <h6 class="card-title">Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
           <p> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. t</p>
@@ -224,8 +222,8 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <span class="card-img-top fa fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span>
-          <h4 class="card-title">Donate</h4>
+          <span class="card-img-top fas fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span>
+          <h6 class="card-title">Donate</h6>
         </div>
         <div class="back card-block">
           <p> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
