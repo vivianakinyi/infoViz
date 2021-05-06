@@ -202,9 +202,8 @@
           <h6 class="card-title">Push for Corporate Transparency</h6>
         </div>
         <div class="back card-block">
-          <p class="card-text>
-           Encourage your employer and leadership to release the EEO-1 reports to the public. This is the first step in holding your employers accountable and creating transparency.
-          </p>
+          <p class="card-text">
+           Encourage your employer and leadership to release the EEO-1 reports to the public. This is the first step in holding your employers accountable and creating transparency. </p>
         </div>
       </div>
     </div>
