@@ -212,17 +212,17 @@
       <div class="card card-flip">
         <div class="front card-block">
           <span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span>
-          <h6 class="card-title">Be a Diversity Advocate </h6>
+          <h6 class="card-title"> Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
-          <p class="card-text> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. t</p>
+          <p class="card-text> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. </p>
         </div>
       </div>
     </div>
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <img src="./assets/img/executive.png" width="50" height="50" class="card-img-top" alt="...">
+<!--           <img src="./assets/img/executive.png" width="50" height="50" class="card-img-top" alt="..."> -->
 <!--           <span class="card-img-top fas fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span> -->
           <h6 class="card-title">Donate</h6>
         </div>
