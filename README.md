@@ -158,10 +158,7 @@
  The story is ongoing and tech companies are far from reaching parity. In showing the projections based on these companies’ progress from 2014 to 2018, we focused on the gender parity story only as gender proportions stay fairly stable around 50%. Meanwhile, with minority representation in the US projected to continue increasing, this percentage is an ever moving target and pose a more complicated dilemma for tech companies to address. 
 
  <h3>  Projected Timeline for Gender Parity at Top 10 </h3>
- In creating the timeline of the top 10, Amazon and Tesla could not be reported as they do not release data publicly. Thus, they cannot be assessed fairly with the others who release standardized government reports of their demographics. 
-
- Microsoft and Paypal would never reach a year when they hit the 50/50 benchmark as their progress in adding females to their workforce has been negative in the 4 years. The irony here is that Paypal when viewed from Percentage POC to Percentage Female in the graph above is second best to Netflix. 
-
+ <p>From the timeline, Netflix is the only top 10 tech company projected to reach gender parity this year. The others will reach gender parity many years later, with Nvidia projected at 2150. </p>
 </div>
 
 <div  class="section2" data-aos="zoom-in-up">
