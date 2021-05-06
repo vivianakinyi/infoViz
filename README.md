@@ -138,6 +138,9 @@
   </div>
  </div>
 
+<div class="alert alert-secondary" role="alert">
+ Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? 
+</div>
 
 <div data-aos="fade-up" data-aos-duration="3000">
   <iframe width="100%" height="796" frameborder="0"
