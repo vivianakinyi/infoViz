@@ -173,9 +173,14 @@
 
 <div class="section1" data-aos="fade-right"> 
  <h3> Recommendations </h3>
- As demonstrated in the timeline, progress is too slow if the tech industry were left to itself. In the 4 years surveyed, companies had at best a few percentage points of positive change in both race and gender. We think tech could improve in the below dimensions. 
- <br>
+ <p>The timeline above paints a dire picture; however  it is still merely a prediction. With the right interventions and practices, perhaps these tech companies can significantly improve hiring and retention of  underrepresented groups. </p>
+
+ <p>Here are some DE&I efforts taken by  Netflix which have significantly helped them hire and retain a diverse workforce consequently  creating an inclusive workplace.  </p>
  </div>
+ 
+ <div class="container">
+ <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000">
+</div>
  
  <div class="section1" data-aos="fade-left">
  <h4> Transparency </h4> 
@@ -235,6 +240,28 @@
 
 <!-- NO JS VERSION: https://codepen.io/nicolaskadis/full/brQEOd/ -->
 
+<script>
+$(document).ready(function() {
+  var front = document.getElementsByClassName("front");
+  var back = document.getElementsByClassName("back");
 
+  var highest = 0;
+  var absoluteSide = "";
 
+  for (var i = 0; i < front.length; i++) {
+    if (front[i].offsetHeight > back[i].offsetHeight) {
+      if (front[i].offsetHeight > highest) {
+        highest = front[i].offsetHeight;
+        absoluteSide = ".front";
+      }
+    } else if (back[i].offsetHeight > highest) {
+      highest = back[i].offsetHeight;
+      absoluteSide = ".back";
+    }
+  }
+  $(".front").css("height", highest);
+  $(".back").css("height", highest);
+  $(absoluteSide).css("position", "absolute");
+});
+</script>
 
