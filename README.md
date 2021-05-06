@@ -202,7 +202,7 @@
           <h6 class="card-title">Push for Corporate Transparency</h6>
         </div>
         <div class="back card-block">
-          <p>
+          <p class="card-text>
            Encourage your employer and leadership to release the EEO-1 reports to the public. This is the first step in holding your employers accountable and creating transparency.
           </p>
         </div>
@@ -215,7 +215,7 @@
           <h6 class="card-title">Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
-          <p> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. t</p>
+          <p class="card-text> Educate yourself and speak up when you see unfairness or bias based on gender, race, sexual orientation etc. t</p>
         </div>
       </div>
     </div>
@@ -226,7 +226,7 @@
           <h6 class="card-title">Donate</h6>
         </div>
         <div class="back card-block">
-          <p> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
+          <p class="card-text"> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
         </div>
       </div>
     </div>
