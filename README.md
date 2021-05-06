@@ -123,22 +123,17 @@
 <div class="container">
  <div class="row">
     <figure class="figure col-md-4">
-    <img src="./assets/img/executive.png" width="200" height="200" class="figure-img img-fluid rounded" alt="executive">
-    <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</figcaption>
-  </figure>
-<!--    <div class="col-md-4">
-    <img src="./assets/img/executive.png" width="200" height="200">
-    <p> Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</p>
-   </div> -->
-   <div class="col-md-4">
-    <img src="./assets/img/manager.png" width="200" height="200">
-    <p>Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</p>
-   </div>
-   <div class="col-md-4">
-    <img src="./assets/img/professional.png" width="200" height="200">
-    <p>Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist
-</p>
-   </div>
+      <img src="./assets/img/executive.png" width="200" height="200" class="figure-img img-fluid rounded" alt="executive">
+      <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</figcaption>
+   </figure>
+  <figure class="figure col-md-4">
+      <img src="./assets/img/manager.png" width="200" height="200" class="figure-img img-fluid rounded" alt="executive">
+      <figcaption class="figure-caption">Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</figcaption>
+   </figure>
+  <figure class="figure col-md-4">
+      <img src="./assets/img/proffesional.png" width="200" height="200" class="figure-img img-fluid rounded" alt="executive">
+      <figcaption class="figure-caption">Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist</figcaption>
+   </figure>
   </div>
  </div>
 
