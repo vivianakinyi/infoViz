@@ -113,7 +113,7 @@
 
 <p> Let’s look at these top 10 companies’ performance balancing racial and gender diversity. Because companies can pad their self-reported data, we used the most recent EEO-1 reports, a standardized form that all companies submit to the federal government, to extract corporate roles only. 
  </p>
- <p>Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.<p>
+ <p>Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.</p>
 </div>
 
 <div class="container" data-aos="zoom-in-down">
