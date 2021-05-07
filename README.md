@@ -132,6 +132,11 @@
  </script>
 </div>
 
+<div class="section2">
+ <p>Based on the scatterplot, it looks like Netflix is the closest to the 50/50 “target” for both race and gender diversity. Does this diversity still hold true the higher one climbs up the corporate ladder? </p>
+
+</div>
+
 <div class="section1"> 
  <h3> Netflix: A Case Study of the "Best Performing" Tech Company  </h3>
  <p>Superficially and looking at percentage breakdown alone, Netflix is doing the best for race and gender in total. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of professional, manager, and executive roles. Thus, retention is just as important to consider as hiring. </p>
