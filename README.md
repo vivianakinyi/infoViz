@@ -107,8 +107,6 @@
 
 <div class="section1">
  <h3> Top 10 Tech Companies </h3>
-<p> While tech as a whole lags behind representation of the US population and labor workforce, accountability for diversity improvement should be focused on the top 10 tech companies by market cap. As they have the most resources and power and are highly sought after by jobseekers, they serve as role models in shaping the expectation for Diversity, Equity, and Inclusion (DEI) across the entire industry. </p>
- 
  <p> Now, let's narrow our focus to the top 10 tech companies (by market cap) in the US. These companies are highly sought after by jobseekers and are often trendsetters within the tech industry, often shaping expectations for Diversity, Equity and Inclusion. </p>
 </div>
 
