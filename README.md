@@ -99,6 +99,8 @@
   <div class="col-md-4" data-aos="fade-right">
     <h4> Market Landscape </h4>
    <p> The top 10 tech companies take up 61% of the technology market, with the other 177 tech companies taking up 39% of market share. </p>
+   <p> While they are market leaders and have sufficient resources to attract a diverse candidate pool, how well do these companies do in terms of racial and gender diversity?
+</p>
   </div>
 
    <div class="col-md-8" data-aos="fade-left"> 
