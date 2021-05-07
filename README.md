@@ -113,9 +113,9 @@
 <div class="section1">
  <h3> Gender vs Race Representation at Top 10 Companies </h3>
 
-<p> Let’s look at these top 10 companies’ performance balancing racial and gender diversity. Because companies can pad their self-reported data, we used the most recent EEO-1 reports, a standardized form that all companies submit to the federal government, to extract corporate roles only. Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.
-
+<p> Let’s look at these top 10 companies’ performance balancing racial and gender diversity. Because companies can pad their self-reported data, we used the most recent EEO-1 reports, a standardized form that all companies submit to the federal government, to extract corporate roles only. 
  </p>
+ <p>Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.<p>
 </div>
 
 <div class="container" data-aos="zoom-in-down">
@@ -140,16 +140,16 @@
 <div class="container">
  <div class="row">
     <figure class="figure col-md-4">
-      <img src="./assets/img/executive.png" width="100" height="100" class="figure-img img-fluid rounded" alt="executive">
+      <img src="./assets/img/executive.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
       <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</figcaption>
    </figure>
   <figure class="figure col-md-4">
-      <img src="./assets/img/manager.png" width="100" height="100" class="figure-img img-fluid rounded" alt="executive">
+      <img src="./assets/img/manager.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
       <figcaption class="figure-caption">Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</figcaption>
    </figure>
   <figure class="figure col-md-4">
-      <img src="./assets/img/professional.png" width="100" height="100" class="figure-img img-fluid rounded" alt="executive">
-      <figcaption class="figure-caption">Professional: An individual contributor who does not have any managerial tasks and focuses mainly on their projects and deliverables. Ex. Software Engineer, UX Designer, Data Scientist</figcaption>
+      <img src="./assets/img/professional.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
+      <figcaption class="figure-caption">Professional: individual contributor with no managerial tasks and focuses mainly on their projects and deliverables. eg. software engineer, UX Designer, Data Scientist</figcaption>
    </figure>
   </div>
  </div>
