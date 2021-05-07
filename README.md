@@ -33,6 +33,9 @@
    </script>
 </div>
 
+<div class="section2">
+ <p>As you can see, only a few companies are close to the 50:50 gender ratio.</p>
+</div>
 
 <div class="section1">
 
@@ -59,7 +62,6 @@
 <div class="section1">
  <h3> Racial Diversity Breakdown </h3>
   <p> Of the few companies who appear to do well in racial diversity, more research is required to understand the truth behind their self-reported data. </p>
- 
 </div>
 
 
