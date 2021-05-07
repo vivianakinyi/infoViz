@@ -61,7 +61,6 @@
 
 <div class="section1">
  <h3> Racial Diversity Breakdown </h3>
-  <p> Of the few companies who appear to do well in racial diversity, more research is required to understand the truth behind their self-reported data. </p>
  <p>Moving on to racial diversity. This is self-reported data, the only data available to the public for most tech companies. Do any of them seem to be doing fairly well in terms of racial diversity? 
  </p>
 </div>
