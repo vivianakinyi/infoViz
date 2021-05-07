@@ -85,6 +85,7 @@
  </script>
 </div>
 
+
 <div class="section2">
  <p> From the above visualization, Amazon appears to be doing  well in racial diversity compared to the other companies. However, this is because Amazon includes data about their warehouse workers. This paints an incomplete picture since Black and Latino employees are still heavily underrepresented in their corporate offices. </p>
 
@@ -97,12 +98,12 @@
 
 <div class="container">
  <div class="row">
-  <div class="col-md-6" data-aos="fade-right">
-    <h3> Market Landscape </h3>
+  <div class="col-md-4" data-aos="fade-right">
+    <h4> Market Landscape </h4>
    <p> The top 10 tech companies take up 61% of the technology market, with the other 177 tech companies taking up 39% of market share. </p>
   </div>
 
-   <div class="col-md-6" data-aos="fade-left"> 
+   <div class="col-md-8" data-aos="fade-left"> 
     <img src="./assets/img/top_10_tech.png">
    </div>
  </div>
