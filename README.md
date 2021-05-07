@@ -33,10 +33,6 @@
    </script>
 </div>
 
-<div class="section2">
- <p>As you can see, only a few companies are close to the 50:50 gender ratio.</p>
-</div>
-
 <div class="section1">
 
  <h3> Gender Diversity Breakdown </h3>
@@ -57,6 +53,10 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
  </script>
+</div>
+
+<div class="section2">
+ <p>As you can see, only a few companies are close to the 50:50 gender ratio.</p>
 </div>
 
 <div class="section1">
