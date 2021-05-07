@@ -169,7 +169,7 @@
  <h3> Looking to the Future </h3>
  The story is ongoing and tech companies are far from reaching parity. In showing the projections based on these companies’ progress from 2014 to 2018, we focused on the gender parity story only as gender proportions stay fairly stable around 50%. Meanwhile, with minority representation in the US projected to continue increasing, this percentage is an ever moving target and pose a more complicated dilemma for tech companies to address. 
 
- <h3>  Projected Timeline for Gender Parity at Top 10 </h3>
+ <h3>  Projected Timeline for Gender Parity at Top 10 Companies </h3>
  <p>From the timeline, Netflix is the only top 10 tech company projected to reach gender parity this year. The others will reach gender parity many years later, with Nvidia projected at 2150. </p>
 </div>
 
