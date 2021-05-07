@@ -159,7 +159,7 @@
 </div>
 
 <div data-aos="zoom-in-down" data-aos-duration="3000">
-  <iframe width="100%" height="500px" frameborder="0"
+  <iframe width="100%" height="800px" frameborder="0"
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
 
