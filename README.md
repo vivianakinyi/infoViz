@@ -43,6 +43,7 @@
 
  <h3> Gender Diversity Breakdown </h3>
  <p> Over the 4 years, the gap between the genders does not significantly improve. Not many gains were made to include and retain women in the tech workforce. </p>
+<p>Now, let’s look at how companies have handled the gender gap in 2018. The U.S. Population is very close to the 50:50 gender ratio. How many companies are close to this gender distribution? </p>
 
 </div>
 
