@@ -29,6 +29,11 @@
    </script>
 </div>
 
+<div class="container">
+ <p> We can see how  Females, Black, Latino, and Native American groups are disproportionately underrepresented at these tech companies compared to the U.S. population. 
+</p>
+</div>
+
 
 <div class="section1">
 
