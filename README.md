@@ -13,6 +13,10 @@
   <h3> Current State Assessment of Tech Industry </h3>
   <p>An assessment of the tech industry today primarily relies upon self-reported data. From 2014 to 2018, representation of most minorities are below their percentages in the U.S. population.
   </p>
+ <p>Compare the demographics of different tech companies with the demographics of the U.S. Population. What do you notice? 
+ </p>
+ <p class="card-text"> We can see how  Females, Black, Latino, and Native American groups are disproportionately underrepresented at these tech companies compared to the U.S. population. 
+</p>
 </div>
 
 <div class="container" data-aos="zoom-in-down">
