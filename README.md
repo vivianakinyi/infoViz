@@ -10,7 +10,7 @@
 
 
 <div class="section1">
-  <h3> Current State Assessment of Tech Industry </h3>
+  <h3> Current state assessment of tech industry </h3>
   <p>An assessment of the tech industry today primarily relies upon self-reported data. From 2014 to 2018, representation of most minorities are below their percentages in the U.S. population.
   </p>
  <p>Compare the demographics of different tech companies with the demographics of the U.S. Population. What do you notice? 
@@ -26,7 +26,7 @@
    <script type='text/javascript'>                    
  var divElement = document.getElementById('viz1619545800247');                    
  var vizElement = divElement.getElementsByTagName('object')[0];                    
- if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='1000px';vizElement.style.height='827px';}                     
  var scriptElement = document.createElement('script');                    
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
@@ -111,7 +111,7 @@
 
 
 <div class="section1">
- <h3> Gender vs Race Representation at Top 10 </h3>
+ <h3> Gender vs Race Representation at Top 10 Companies </h3>
 
 <p> Let’s look at these top 10 companies’ performance balancing racial and gender diversity. Because companies can pad their self-reported data, we used the most recent EEO-1 reports, a standardized form that all companies submit to the federal government, to extract corporate roles only. Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.
 
