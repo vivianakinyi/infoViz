@@ -39,7 +39,7 @@
  <h3> Gender Diversity Breakdown </h3>
  <p> In the previous vizualizations we see the gap between the genders does not significantly improve. Not many gains were made to include and retain women in the tech workforce. </p>
 
-<p> Now, let’s look at the gender balanace in top tech companies in 2018. The U.S. Population is very close to the 50:50 gender ratio. How many companies are close to this gender distribution? </p>
+<p> Now, let’s look at the gender balance in top tech companies in 2018. The U.S. Population is very close to the 50:50 gender ratio. How many companies are close to this gender distribution? </p>
 
 </div>
 
@@ -59,8 +59,7 @@
 <div class="section1">
  <h3> Racial Diversity Breakdown </h3>
   <p> Of the few companies who appear to do well in racial diversity, more research is required to understand the truth behind their self-reported data. </p>
-   
-   <p>Amazon, for instance, appears to be doing well in racial diversity for percentage of Black employees; however, this is because Amazon includes data about their warehouse workers. This paints an incomplete picture since Black and Latino employees are still heavily underrepresented in their corporate offices. </p>
+ 
 </div>
 
 
