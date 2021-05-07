@@ -1,13 +1,13 @@
-<div class="container">
- <img class= "img-fluid" src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in-down" data-aos-duration="3000">
-</div>
-
 <div class="section1" data-aos="fade-down">
 <p> Technology has a very wide reach and has become integrated  into everyday  life for the average American. But who are the people making key decisions that impact millions of people in the country? And do they represent the U.S. population that they serve? </p>
 
 <p> Let’s explore how the tech industry has handled Diversity, Equity, and Inclusion, especially around gender and race. </p> 
 
 </div>
+<div class="container">
+ <img class= "img-fluid" src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in-down" data-aos-duration="3000">
+</div>
+
 
 <div class="section2">
   <h3> Current State Assessment of Tech Industry </h3>
