@@ -212,7 +212,12 @@
  <div class="container">
  <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000" width="100%" height="200px">
 </div>
- 
+ <div class="section1">
+ <h3>What You Can Do to Make a Change </h3>
+
+<p>We believe all of us have a role to play in making the tech industry a more inclusive place for all. Uncover how  you can help make a positive change in the tech industry.</p>
+</div>
+
 <!-- Visit https://codepen.io/nicolaskadis/full/brQEOd/ for the latest, no js version! -->
 <div class="container">
   <div class="row text-center">
