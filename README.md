@@ -171,7 +171,11 @@
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
 
+<div>
+ <p> From aggregate numbers, Netflix seems to have a diverse racial and gender representation. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of manager and executive roles. Thus, retention is just as important to consider as hiring. </p>
 
+
+</div>
 <div class="section1"> 
 
  <h3> Looking to the Future </h3>
