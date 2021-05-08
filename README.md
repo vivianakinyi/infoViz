@@ -112,7 +112,7 @@
 
 <p> Let’s look at these top 10 companies’ performance balancing racial and gender diversity. Because companies can pad their self-reported data, we used the most recent EEO-1 reports, a standardized form that all companies submit to the federal government, to extract corporate roles only. 
  </p>
- <p>Amazon and Tesla have not released this data to the public. For that reason, they are not shown below.</p>
+ <p><b>Amazon</b> and <b>Tesla</b> have not released this data to the public. For that reason, they are not shown below.</p>
 </div>
 
 <div class="container" data-aos="zoom-in-down">
@@ -137,22 +137,22 @@
 <div class="section1"> 
  <h3> Netflix: A Case Study of the "Best Performing" Tech Company  </h3>
  <p>Let’s dig deeper into the gender and racial distribution across Executive, Manager and Professional roles  at Netflix.</p>
- <p>Superficially and looking at percentage breakdown alone, Netflix is doing the best for race and gender in total. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of professional, manager, and executive roles. Thus, retention is just as important to consider as hiring. </p>
+ <p>Superficially and looking at percentage breakdown alone, Netflix is doing the best for race and gender in total. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks. Thus, retention is just as important to consider as hiring. </p>
 </div> 
 
 <div class="container">
  <div class="row">
     <figure class="figure col-md-4">
       <img src="./assets/img/executive.png" width="80px" height="80px" class="figure-img img-fluid rounded" alt="executive">
-      <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</figcaption>
+      <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization eg. CEO, CFO, COO etc.</figcaption>
    </figure>
   <figure class="figure col-md-4">
       <img src="./assets/img/manager.png" width="80px" height="80px" class="figure-img img-fluid rounded" alt="executive">
-      <figcaption class="figure-caption">Manager: responsiblbe for overseeing a department eg. Group Engineering Manager etc</figcaption>
+      <figcaption class="figure-caption">Manager: Responsible for overseeing a department eg. Group Engineering Manager etc</figcaption>
    </figure>
   <figure class="figure col-md-4">
       <img src="./assets/img/professional.png" width="80px" height="80px" class="figure-img img-fluid rounded" alt="executive">
-      <figcaption class="figure-caption">Professional: individual contributor with no managerial tasks eg. software engineer, UX Designer</figcaption>
+      <figcaption class="figure-caption">Professional: Individual contributor with no managerial tasks eg. software engineer, UX Designer</figcaption>
    </figure>
   </div>
  </div>
@@ -179,22 +179,14 @@
  
 </div>
 
-<div  class="section2" data-aos="zoom-in-up">
- <div class='tableauPlaceholder' id='viz1619457159695' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10_Timelines&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top10_Timelines&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10_Timelines&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object>
-</div>                
-
- <script type='text/javascript'>                    
-   var divElement = document.getElementById('viz1619457159695');                    
-   var vizElement = divElement.getElementsByTagName('object')[0];                    
-   if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
-   var scriptElement = document.createElement('script');                    
-   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
- </script>
+<div class='tableauPlaceholder' id='viz1620450258125' style='position: relative'><noscript><a href='#'><img alt='Predicted Dates for Gender Parity at Top 10 Companies ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;Timelines_Updated&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Timelines_Updated&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;Timelines_Updated&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
 </div>
 
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1620450258125');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 <div class="section2">
- <p>From the timeline, Netflix is the only top 10 tech company projected to reach gender parity this year. The others will reach gender parity many years later, with Nvidia projected at 2150. </p>
+ <p>From the timeline, Netflix is the only top 10 tech company projected to reach gender parity this year. The others will reach gender parity many years later, with Nvidia projected at 2150. <b>Amazon</b> and <b>Tesla</b> were not included because they do not release data. <b>Paypal</b> and <b>Microsoft</b> actually have had negative progress so they would not reach parity...ever. </p>
 
 </div>
 
@@ -225,8 +217,7 @@
           <h6 class="card-title">Push for Corporate Transparency</h6>
         </div>
         <div class="back card-block">
-          <p class="card-text">
-           Encourage your employer and leadership to release the EEO-1 reports to the public. This is the first step in holding your employers accountable and creating transparency. </p>
+          <p class="card-text"> Encourage your employer and leadership to release the EEO-1 reports to the public. This is the first step in holding your employers accountable and creating transparency. </p>
         </div>
       </div>
     </div>
@@ -246,7 +237,8 @@
         <div class="front card-block">
 <!--           <img src="./assets/img/executive.png" width="50" height="50" class="card-img-top" alt="..."> -->
 <!--           <span class="card-img-top fas fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span> -->
-          <h6 class="card-text">Donate</h6>
+            <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
+          <h6 class="card-title">Donate</h6>
         </div>
         <div class="back card-block">
           <p class="card-text"> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
