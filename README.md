@@ -243,7 +243,6 @@
         <div class="back card-block">
           <p class="card-text"> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
         </div>
-      </div>
     </div>
   </div>
 </div>
