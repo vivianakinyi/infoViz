@@ -159,7 +159,7 @@
 
 
 <div class="alert alert-light" role="alert">
- <h6>Diversity Across Different Roles at Netflix</h6>
+ <h5>Diversity Across Different Roles at Netflix</h5>
  <p>Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? </p>
 </div>
 
@@ -168,11 +168,10 @@
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
 
-<div>
+<div class="Section2">
  <p> From aggregate numbers, Netflix seems to have a diverse racial and gender representation. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of manager and executive roles. Thus, retention is just as important to consider as hiring. </p>
-
-
 </div>
+
 <div class="section1"> 
 
  <h3> Looking to the Future </h3>
