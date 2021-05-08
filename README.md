@@ -160,7 +160,9 @@
   </div>
  </div>
 
+<h4>Diversity Across Different Roles at Netflix</h4>
 <div class="alert alert-light" role="alert">
+ Diversity Across Different Roles at Netflix
  Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? 
 </div>
 
