@@ -224,7 +224,7 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span>
+          <!--<span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span>-->
           <h6 class="card-title"> Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
