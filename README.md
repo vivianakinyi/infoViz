@@ -2,8 +2,8 @@
 <p> Technology has a very wide reach and has become integrated  into everyday  life for the average American. But who are the people making key decisions that impact millions of people in the country? And do they represent the U.S. population that they serve? </p>
 
 <p> Let’s explore how the tech industry has handled Diversity, Equity, and Inclusion, especially around gender and race. </p> 
-
 </div>
+
 <div class="container">
  <img class= "img-fluid" src="./assets/img/diversity-people-2-Tartila-adobe.jpeg" data-aos="zoom-in-down" data-aos-duration="3000">
 </div>
@@ -19,6 +19,7 @@
 </p>
 </div>
 
+
 <div class="container" data-aos="zoom-in-down">
  <div class='tableauPlaceholder' id='viz1620433616942' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 (2) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparisonofAllTechCompanies&#47;Dashboard12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ComparisonofAllTechCompanies&#47;Dashboard12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparisonofAllTechCompanies&#47;Dashboard12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                
  <script type='text/javascript'>                    
@@ -31,8 +32,7 @@
  </script>
 </div>
 
-<div class="section1">
-
+<div class="container section1">
  <h3> Gender Diversity Breakdown </h3>
  <p> In the previous vizualizations we see the gap between the genders does not significantly improve. Not many gains were made to include and retain women in the tech workforce. </p>
 
@@ -143,24 +143,24 @@
 <div class="container">
  <div class="row">
     <figure class="figure col-md-4">
-      <img src="./assets/img/executive.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
+      <img src="./assets/img/executive.png" width="80px" height="80px" class="figure-img img-fluid rounded" alt="executive">
       <figcaption class="figure-caption">Executive: An individual who holds supervisory authority in an organization. Ex. CEO, CFO, COO etc.</figcaption>
    </figure>
   <figure class="figure col-md-4">
-      <img src="./assets/img/manager.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
+      <img src="./assets/img/manager.png" width="80px" height="80px" class="figure-img img-fluid rounded" alt="executive">
       <figcaption class="figure-caption">Manager: responsiblbe for overseeing a department eg. Group Engineering Manager etc</figcaption>
    </figure>
   <figure class="figure col-md-4">
-      <img src="./assets/img/professional.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
+      <img src="./assets/img/professional.png" width="80px" height="80px" class="figure-img img-fluid rounded" alt="executive">
       <figcaption class="figure-caption">Professional: individual contributor with no managerial tasks eg. software engineer, UX Designer</figcaption>
    </figure>
   </div>
  </div>
 
-<h4>Diversity Across Different Roles at Netflix</h4>
+
 <div class="alert alert-light" role="alert">
- Diversity Across Different Roles at Netflix
- Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? 
+ <h4>Diversity Across Different Roles at Netflix</h4>
+ <p>Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? <p>
 </div>
 
 <div data-aos="zoom-in-down" data-aos-duration="3000">
