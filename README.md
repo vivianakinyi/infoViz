@@ -159,8 +159,8 @@
 
 
 <div class="alert alert-light" role="alert">
- <h4>Diversity Across Different Roles at Netflix</h4>
- <p>Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? <p>
+ <h6>Diversity Across Different Roles at Netflix</h6>
+ <p>Hover over the arcs to get more information about Netflix’s racial and gender breakdown across these roles. What do you notice? </p>
 </div>
 
 <div data-aos="zoom-in-down" data-aos-duration="3000">
