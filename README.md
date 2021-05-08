@@ -139,6 +139,7 @@
 
 <div class="section1"> 
  <h3> Netflix: A Case Study of the "Best Performing" Tech Company  </h3>
+ <p>Let’s dig deeper into the gender and racial distribution across Executive, Manager and Professional roles  at Netflix.</p>
  <p>Superficially and looking at percentage breakdown alone, Netflix is doing the best for race and gender in total. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of professional, manager, and executive roles. Thus, retention is just as important to consider as hiring. </p>
 </div> 
 
@@ -150,11 +151,11 @@
    </figure>
   <figure class="figure col-md-4">
       <img src="./assets/img/manager.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
-      <figcaption class="figure-caption">Manager: An individual who is responsible for overseeing a department or group of employees. Ex. Group Engineering Manager, Design Manager etc</figcaption>
+      <figcaption class="figure-caption">Manager: responsiblbe for overseeing a department eg. Group Engineering Manager etc</figcaption>
    </figure>
   <figure class="figure col-md-4">
       <img src="./assets/img/professional.png" width="50px" height="50px" class="figure-img img-fluid rounded" alt="executive">
-      <figcaption class="figure-caption">Professional: individual contributor with no managerial tasks and focuses mainly on their projects and deliverables. eg. software engineer, UX Designer, Data Scientist</figcaption>
+      <figcaption class="figure-caption">Professional: individual contributor with no managerial tasks eg. software engineer, UX Designer</figcaption>
    </figure>
   </div>
  </div>
