@@ -199,8 +199,9 @@
  </div>
  
  <div class="container">
- <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000" width="100%" height="200px">
+ <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000" width="200px" height="200px">
 </div>
+
  <div class="section1">
  <h3>What You Can Do to Make a Change </h3>
 
