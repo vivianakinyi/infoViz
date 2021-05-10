@@ -242,7 +242,7 @@
           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
           <h6 class="card-title">Donate</h6>
         </div>
-        <div class="back card-block">
+        <div class="back card-body">
           <p class="card-text"> Support and donate to NGOs such as GirlsWhoCode, BlackGirlsCode, Code2040 </p>
     </div>
   </div>
