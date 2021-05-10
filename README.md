@@ -199,7 +199,7 @@
  </div>
  
  <div class="container">
- <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000" width="200px" height="200px">
+ <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000" width="400px" height="400px">
 </div>
 
  <div class="section1">
