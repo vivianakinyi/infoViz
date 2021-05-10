@@ -200,7 +200,7 @@
  
  <div class="container">
    <div class="text-center">
-     <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000" width="600px" height="600px">
+     <img class= "img-fluid" src="./assets/img/recommendations.png" data-aos="zoom-in-down" data-aos-duration="3000" width="500px" height="500px">
  </div>
 </div>
 
@@ -217,7 +217,8 @@
       <div class="card card-flip">
         <div class="front card-block">
           <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
-          <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span>
+<!--           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span> -->
+         <img src="./assets/img/speak_up.jpg" class="card-img-top" alt="donate">
           <h6 class="card-title">Push for Corporate Transparency</h6>
         </div>
         <div class="back card-block">
@@ -228,7 +229,8 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span>
+<!--           <span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span> -->
+         <img src="./assets/img/speak_up.jpg" class="card-img-top" alt="donate">
           <h6 class="card-title"> Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
