@@ -101,7 +101,7 @@
   </div>
 
    <div class="col-md-8" data-aos="fade-left"> 
-    <img src="./assets/img/top_10_tech.png">
+    <img src="./assets/img/market_share.png">
    </div>
  </div>
 </div>
@@ -168,7 +168,8 @@
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
 
-<div class="Section2">
+
+<div class="section2">
  <p> From aggregate numbers, Netflix seems to have a diverse racial and gender representation. Yet, as underrepresented individuals progress through their careers, fewer and fewer make it through the ranks of manager and executive roles. Thus, retention is just as important to consider as hiring. </p>
 </div>
 
