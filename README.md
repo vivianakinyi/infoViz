@@ -218,7 +218,7 @@
         <div class="front card-block">
           <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
 <!--           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span> -->
-         <img src="./assets/img/transparency.jpeg" class="card-img-top" alt="transparency" width="100px" height="100px">
+         <img src="./assets/img/transparency.jpeg" class="card-img-top" alt="transparency" width="200px" height="200px">
           <h6 class="card-title">Push for Corporate Transparency</h6>
         </div>
         <div class="back card-block">
@@ -230,7 +230,7 @@
       <div class="card card-flip">
         <div class="front card-block">
 <!--           <span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span> -->
-         <img src="./assets/img/advocate.jpeg" class="card-img-top" alt="advocate" width="100px" height="100px">
+         <img src="./assets/img/advocate.jpeg" class="card-img-top" alt="advocate" width="200px" height="200px">
           <h6 class="card-title"> Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
@@ -241,7 +241,7 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <img src="./assets/img/donate.jpg" class="card-img-top" alt="donate" width="100px" height="100px">
+          <img src="./assets/img/donate.jpg" class="card-img-top" alt="donate" width="100px" height="150px">
 <!--           <span class="card-img-top fas fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span> -->
           <h6 class="card-title">Donate</h6>
         </div>
