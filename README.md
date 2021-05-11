@@ -230,7 +230,7 @@
       <div class="card card-flip">
         <div class="front card-block">
 <!--           <span class="card-img-top fas fa-camera" style="font-size: 4em">&#xf118;</span> -->
-         <img src="./assets/img/speak_up.jpg" class="card-img-top" alt="donate">
+         <img src="./assets/img/advocate.jpeg" class="card-img-top" alt="advocate">
           <h6 class="card-title"> Be a Diversity Advocate </h6>
         </div>
         <div class="back card-body">
