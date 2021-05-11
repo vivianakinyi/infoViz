@@ -218,7 +218,7 @@
         <div class="front card-block">
           <!-- To add FontAwesome Icons use Unicode characters and to set size use font-size instead of fa-*x because when calculating the height (see js), the size of the icon is not calculated if using classes -->
 <!--           <span class="card-img-top fa" style="font-size: 4em">&#xf118;</span> -->
-         <img src="./assets/img/speak_up.jpg" class="card-img-top" alt="donate">
+         <img src="./assets/img/transparency.jpeg" class="card-img-top" alt="transparency">
           <h6 class="card-title">Push for Corporate Transparency</h6>
         </div>
         <div class="back card-block">
