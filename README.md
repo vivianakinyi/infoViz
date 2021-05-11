@@ -241,7 +241,7 @@
     <div class="col-md-4 card-container">
       <div class="card card-flip">
         <div class="front card-block">
-          <img src="./assets/img/donate.jpg" class="card-img-top" alt="donate" width="100px" height="150px">
+          <img src="./assets/img/donate.jpg" class="card-img-top" alt="donate" width="200px" height="200px">
 <!--           <span class="card-img-top fas fa-hand-holding-usd" style="font-size: 4em">&#xf118;</span> -->
           <h6 class="card-title">Donate</h6>
         </div>
