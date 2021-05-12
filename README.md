@@ -15,7 +15,7 @@
   </p>
  <p>Hover over different tech companies to compare their demographics with the demographics of the U.S. Population. What do you notice? 
  </p>
- <p class="card-text"> We can see how  Females, Black, Latino, and Native American groups are disproportionately underrepresented at these tech companies compared to the U.S. population. 
+ <p class="card-text"> We can see how Black, Latino and Female groups are disproportionately underrepresented at these tech companies compared to the U.S. population. 
 </p>
 </div>
 
@@ -34,7 +34,7 @@
 
 <div class="container section1">
  <h3> Gender Diversity Breakdown </h3>
- <p> In the previous vizualizations we see the gap between the genders does not significantly improve. Not many gains were made to include and retain women in the tech workforce. </p>
+ <p> In the previous vizualizations we see the gap between the genders does not significantly improve from 2014 to 2018. Not many gains were made to include and retain women in the tech workforce. </p>
 
 <p> Now, let’s look at the gender balance in top tech companies in 2018. The U.S. Population is very close to the 50:50 gender ratio. How many companies are close to this gender distribution? </p>
 
