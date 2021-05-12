@@ -59,7 +59,7 @@
 
 <div class="section1">
  <h3> Racial Diversity Breakdown </h3>
- <p>Moving on to racial diversity. This is self-reported data, the only data available to the public for most tech companies. The US population is the benchmark for racial diversity. Do any of these companies flower petal look close to the US population in racial diversity? 
+ <p>Moving on to racial diversity. This is self-reported data, the only data available to the public for most tech companies. The US population is the benchmark for racial diversity. Which of these companies best represent the US population in racial diversity?
  </p>
 </div>
 
@@ -166,7 +166,7 @@
 </div>
 
 <div data-aos="zoom-in-down" data-aos-duration="3000">
-  <iframe width="100%" height="750px" frameborder="0"
+  <iframe width="100%" height="800px" frameborder="0"
     src="https://observablehq.com/embed/@priyankaad/sequences-sunburst-for-paypal?cells=breadcrumb%2Cviewof+sunburst"></iframe>
 </div>
 
