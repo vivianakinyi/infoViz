@@ -59,7 +59,7 @@
 
 <div class="section1">
  <h3> Racial Diversity Breakdown </h3>
- <p>Moving on to racial diversity. This is self-reported data, the only data available to the public for most tech companies. The US population is the benchmark for racial diversity. Which of these companies best represent the US population in racial diversity?
+ <p> Let's now explore the racial diversity. The US population is the benchmark for racial diversity.  Which of these companies best represent the US population in racial diversity?
  </p>
 </div>
 
