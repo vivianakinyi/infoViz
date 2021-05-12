@@ -54,7 +54,7 @@
 </div>
 
 <div class="section2">
- <p>As you can see, only a few companies are close to the 50:50 gender ratio.</p>
+ <p>As you can see, only a few companies i.e Indigogo and Pandora were close to the 50:50 gender ratio in 2018.</p>
 </div>
 
 <div class="section1">
