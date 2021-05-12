@@ -54,7 +54,7 @@
 </div>
 
 <div class="section2">
- <p>As you can see, only a few companies i.e Indigogo and Pandora were close to the 50:50 gender ratio in 2018.</p>
+ <p>As you can see, only a few companies i.e Indiegogo and Pandora were close to the 50:50 gender ratio in 2018. While the rest have a wide gender gap with Nvidia performing the worst.</p>
 </div>
 
 <div class="section1">
