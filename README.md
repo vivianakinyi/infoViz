@@ -59,7 +59,7 @@
 
 <div class="section1">
  <h3> Racial Diversity Breakdown </h3>
- <p>Moving on to racial diversity. This is self-reported data, the only data available to the public for most tech companies. The US population is the benchmark for racial diversity. Do any of these companies flower petal look close to the US pouplation in racial diversity? 
+ <p>Moving on to racial diversity. This is self-reported data, the only data available to the public for most tech companies. The US population is the benchmark for racial diversity. Do any of these companies flower petal look close to the US population in racial diversity? 
  </p>
 </div>
 
